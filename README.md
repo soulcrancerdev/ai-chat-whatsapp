@@ -1,7 +1,7 @@
 [license-shield]: https://img.shields.io/badge/License-GPL3.0-green.svg
 [license]: https://github.com/MauricePascal/WhatsApp-Chat-AI/tree/main/LICENSE
 
-[ ![license-shield][] ][license]
+[ ![license-shield][] ][license] 
 # WhatsApp-Chat-AI
 Artificial Intelligence for WhatsApp Chats. Let your WhatsApp contacts chat with an AI
 
